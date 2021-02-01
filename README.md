@@ -1,4 +1,4 @@
-# StudentList
+# Student Detail Management
 Simple CRUD application made with Spring Boot
 
 - Spring Boot
